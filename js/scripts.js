@@ -23,7 +23,7 @@ window.onload = function() {
 
   var messages = [
     'Hey there 👋',
-    'I\'m Achraf',
+    'I\'m Achraf filali',
     'I design and code things on the web',
     'I\'m currently accepting freelance work.<br> You can contact me at <a href="https://plus.google.com/u/0/115502341730046549286">ena yeser @mahleni.com</a>',
     '<a target="_blank" href="https://www.facebook.com/achraf.filali.904">facebook.com/achraf filali</a><br></a><br><a target="_blank" href="https://github.com/keke7744">github.com/achraf filali</a>',
